@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/tags/development/</link>
+    <description>Recent content in Development on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved 2022</copyright>
+    <lastBuildDate>Wed, 17 Mar 2021 08:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CUDA Programming</title>
+      <link>https://Anish-Saxena.github.io/talk/cuda_programming/</link>
+      <pubDate>Wed, 17 Mar 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/cuda_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-node multi-GPU programming</title>
+      <link>https://Anish-Saxena.github.io/project/gpu_bootcamp/</link>
+      <pubDate>Sun, 23 Jun 2019 08:29:15 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/gpu_bootcamp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: May 2021 to August 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;: NVIDIA India&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Created open-source tutorials and boot-camps for scalable multi-GPU programming for HPC applications.&lt;/li&gt;
+&lt;li&gt;Developed codes with CUDA-aware MPI, NCCL, and NVSHMEM libraries and labs in Jupyter Notebooks.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Highly Scalable FFT on GPUs</title>
+      <link>https://Anish-Saxena.github.io/project/fft_library/</link>
+      <pubDate>Sun, 23 Jun 2019 08:10:20 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/fft_library/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extended Tarang, a parallel computational fluid dynamics simulator, to enable GPU-based FFTs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: February 2021 to August 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Mahendra Verma, Physics Dept. IIT Kanpur&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extended Tarang, a parallel computational fluid dynamics simulator, to enable GPU-based FFTs.&lt;/li&gt;
+&lt;li&gt;Developed MPI and CuFFT-XT-based variable precision 1D and 3D scalable forward and inverse FFTs.&lt;/li&gt;
+&lt;li&gt;Achieved upto 1650× single-node speed-up over FFTW on DGX-A100 and linear strong and weak scaling.&lt;/li&gt;
+&lt;li&gt;Compared DGX-A100’s performance in PARAM Siddhi AI with EPCC Cirrus cluster with 6 V100 GPUs per node.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
